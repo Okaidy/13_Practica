@@ -1,0 +1,22 @@
+/*justa el tamaño de la primera imagen*/
+.col-6 img{
+	width: 100%;
+	height: 350px;
+}
+/*justifica el texto*/
+p{
+	text-align: justify;
+}
+
+/*margees entre renglones*/
+div.row{
+	margin-bottom: 15px;
+}
+/*tamaño para 3 imagenes inferiores*/
+div.col-4 img{
+	width: 100%;
+}
+/*margen para encabezad*/
+h1{
+	margin-top: 20px;
+}

@@ -1,0 +1,35 @@
+/*mueve el texto al lado de la imagen*/
+.izq{
+	float: left;
+}
+/*ajusta el tamaño de la imagen que esta contenida en el texto y el margen*/
+.principal{
+	width: 250px;
+	height: 167px;
+	margin: 0px 10px 10px 0px;
+}
+/*justifica los textos*/
+p{
+	text-align: justify;
+}
+/*ajusta las imagenes a las columnas*/
+div.col-3 img{
+	width: 100%;
+}
+/*margen entre los renglones*/
+div.row{
+	margin-bottom: 50px;
+}
+/*margen para h1*/
+h1{
+	margin-top: 50px;
+}
+/*borde para aside y largo*/
+aside img{
+	border-radius: 20px;
+	height: 800px;
+}
+/*borde para imagenes circulares*/
+section div.col-3 img{
+	border-radius: 100%;
+}
